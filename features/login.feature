@@ -1,4 +1,4 @@
-Feature: Search
+Feature: Member Tests
 
   Scenario: Livongo Login
     Given I navigate to the Livongo Login page
